@@ -12,6 +12,6 @@ public class AllCoinsText : MonoBehaviour
     }
     void Update()
     {
-        txtallcoins.text = ":" + StaticVariables.allcoins.ToString();
+        txtallcoins.text = ":Хуй" + StaticVariables.allcoins.ToString();
     }
 }
